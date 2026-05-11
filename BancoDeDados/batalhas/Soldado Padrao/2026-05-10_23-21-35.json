@@ -1,0 +1,842 @@
+{
+  "Nome": "2026-05-10_23-21-35",
+  "Turnos": [
+    {
+      "Numero": 1,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 100,
+      "VidaInimigo": 75
+    },
+    {
+      "Numero": 2,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 97,
+      "VidaInimigo": 75
+    },
+    {
+      "Numero": 3,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Movimento",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 97,
+      "VidaInimigo": 75
+    },
+    {
+      "Numero": 4,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Movimento",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 89,
+      "VidaInimigo": 75
+    },
+    {
+      "Numero": 5,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Movimento",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 89,
+      "VidaInimigo": 75
+    },
+    {
+      "Numero": 6,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 89,
+      "VidaInimigo": 67
+    },
+    {
+      "Numero": 7,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 89,
+      "VidaInimigo": 67
+    },
+    {
+      "Numero": 8,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 85,
+      "VidaInimigo": 64
+    },
+    {
+      "Numero": 9,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 85,
+      "VidaInimigo": 64
+    },
+    {
+      "Numero": 10,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 81,
+      "VidaInimigo": 61
+    },
+    {
+      "Numero": 11,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 81,
+      "VidaInimigo": 61
+    },
+    {
+      "Numero": 12,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 81,
+      "VidaInimigo": 61
+    },
+    {
+      "Numero": 13,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 81,
+      "VidaInimigo": 61
+    },
+    {
+      "Numero": 14,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 81,
+      "VidaInimigo": 61
+    },
+    {
+      "Numero": 15,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Movimento",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Movimento",
+      "VidaJogador": 81,
+      "VidaInimigo": 61
+    },
+    {
+      "Numero": 16,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 69,
+      "VidaInimigo": 53
+    },
+    {
+      "Numero": 17,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 69,
+      "VidaInimigo": 53
+    },
+    {
+      "Numero": 18,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 69,
+      "VidaInimigo": 53
+    },
+    {
+      "Numero": 19,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 69,
+      "VidaInimigo": 53
+    },
+    {
+      "Numero": 20,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 69,
+      "VidaInimigo": 53
+    },
+    {
+      "Numero": 21,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 69,
+      "VidaInimigo": 53
+    },
+    {
+      "Numero": 22,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 65,
+      "VidaInimigo": 48
+    },
+    {
+      "Numero": 23,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 65,
+      "VidaInimigo": 48
+    },
+    {
+      "Numero": 24,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 65,
+      "VidaInimigo": 48
+    },
+    {
+      "Numero": 25,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 65,
+      "VidaInimigo": 48
+    },
+    {
+      "Numero": 26,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 65,
+      "VidaInimigo": 48
+    },
+    {
+      "Numero": 27,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 65,
+      "VidaInimigo": 48
+    },
+    {
+      "Numero": 28,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 65,
+      "VidaInimigo": 48
+    },
+    {
+      "Numero": 29,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 65,
+      "VidaInimigo": 43
+    },
+    {
+      "Numero": 30,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 65,
+      "VidaInimigo": 43
+    },
+    {
+      "Numero": 31,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Movimento",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 65,
+      "VidaInimigo": 43
+    },
+    {
+      "Numero": 32,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 65,
+      "VidaInimigo": 43
+    },
+    {
+      "Numero": 33,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 65,
+      "VidaInimigo": 43
+    },
+    {
+      "Numero": 34,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 65,
+      "VidaInimigo": 38
+    },
+    {
+      "Numero": 35,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 65,
+      "VidaInimigo": 38
+    },
+    {
+      "Numero": 36,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Movimento",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 65,
+      "VidaInimigo": 38
+    },
+    {
+      "Numero": 37,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 65,
+      "VidaInimigo": 38
+    },
+    {
+      "Numero": 38,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 65,
+      "VidaInimigo": 38
+    },
+    {
+      "Numero": 39,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 65,
+      "VidaInimigo": 38
+    },
+    {
+      "Numero": 40,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 65,
+      "VidaInimigo": 38
+    },
+    {
+      "Numero": 41,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 61,
+      "VidaInimigo": 35
+    },
+    {
+      "Numero": 42,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 61,
+      "VidaInimigo": 35
+    },
+    {
+      "Numero": 43,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 61,
+      "VidaInimigo": 35
+    },
+    {
+      "Numero": 44,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 61,
+      "VidaInimigo": 35
+    },
+    {
+      "Numero": 45,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 58,
+      "VidaInimigo": 35
+    },
+    {
+      "Numero": 46,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 58,
+      "VidaInimigo": 35
+    },
+    {
+      "Numero": 47,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 58,
+      "VidaInimigo": 35
+    },
+    {
+      "Numero": 48,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Movimento",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 58,
+      "VidaInimigo": 35
+    },
+    {
+      "Numero": 49,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 58,
+      "VidaInimigo": 35
+    },
+    {
+      "Numero": 50,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 58,
+      "VidaInimigo": 35
+    },
+    {
+      "Numero": 51,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 58,
+      "VidaInimigo": 35
+    },
+    {
+      "Numero": 52,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 58,
+      "VidaInimigo": 35
+    },
+    {
+      "Numero": 53,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 58,
+      "VidaInimigo": 35
+    },
+    {
+      "Numero": 54,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Movimento",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 58,
+      "VidaInimigo": 35
+    },
+    {
+      "Numero": 55,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 58,
+      "VidaInimigo": 35
+    },
+    {
+      "Numero": 56,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 58,
+      "VidaInimigo": 35
+    },
+    {
+      "Numero": 57,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 54,
+      "VidaInimigo": 30
+    },
+    {
+      "Numero": 58,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 54,
+      "VidaInimigo": 30
+    },
+    {
+      "Numero": 59,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 51,
+      "VidaInimigo": 30
+    },
+    {
+      "Numero": 60,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 51,
+      "VidaInimigo": 30
+    },
+    {
+      "Numero": 61,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 51,
+      "VidaInimigo": 30
+    },
+    {
+      "Numero": 62,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 51,
+      "VidaInimigo": 30
+    },
+    {
+      "Numero": 63,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 51,
+      "VidaInimigo": 30
+    },
+    {
+      "Numero": 64,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 51,
+      "VidaInimigo": 30
+    },
+    {
+      "Numero": 65,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Movimento",
+      "VidaJogador": 51,
+      "VidaInimigo": 25
+    },
+    {
+      "Numero": 66,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Movimento",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 39,
+      "VidaInimigo": 25
+    },
+    {
+      "Numero": 67,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 39,
+      "VidaInimigo": 22
+    },
+    {
+      "Numero": 68,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Movimento",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 39,
+      "VidaInimigo": 22
+    },
+    {
+      "Numero": 69,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Movimento",
+      "VidaJogador": 39,
+      "VidaInimigo": 22
+    },
+    {
+      "Numero": 70,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 32,
+      "VidaInimigo": 22
+    },
+    {
+      "Numero": 71,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 28,
+      "VidaInimigo": 17
+    },
+    {
+      "Numero": 72,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 28,
+      "VidaInimigo": 17
+    },
+    {
+      "Numero": 73,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 24,
+      "VidaInimigo": 14
+    },
+    {
+      "Numero": 74,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 20,
+      "VidaInimigo": 9
+    },
+    {
+      "Numero": 75,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 20,
+      "VidaInimigo": 9
+    },
+    {
+      "Numero": 76,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Movimento",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 20,
+      "VidaInimigo": 9
+    },
+    {
+      "Numero": 77,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 20,
+      "VidaInimigo": 9
+    },
+    {
+      "Numero": 78,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 20,
+      "VidaInimigo": 9
+    },
+    {
+      "Numero": 79,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 20,
+      "VidaInimigo": 9
+    },
+    {
+      "Numero": 80,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Movimento",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 20,
+      "VidaInimigo": 9
+    },
+    {
+      "Numero": 81,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 20,
+      "VidaInimigo": 9
+    },
+    {
+      "Numero": 82,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 20,
+      "VidaInimigo": 9
+    },
+    {
+      "Numero": 83,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 20,
+      "VidaInimigo": 9
+    },
+    {
+      "Numero": 84,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 20,
+      "VidaInimigo": 9
+    },
+    {
+      "Numero": 85,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 20,
+      "VidaInimigo": 9
+    },
+    {
+      "Numero": 86,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Movimento",
+      "VidaJogador": 20,
+      "VidaInimigo": 4
+    },
+    {
+      "Numero": 87,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 8,
+      "VidaInimigo": 4
+    },
+    {
+      "Numero": 88,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 8,
+      "VidaInimigo": 4
+    },
+    {
+      "Numero": 89,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 5,
+      "VidaInimigo": 4
+    },
+    {
+      "Numero": 90,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Movimento",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 5,
+      "VidaInimigo": 4
+    },
+    {
+      "Numero": 91,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 5,
+      "VidaInimigo": 1
+    },
+    {
+      "Numero": 92,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 2,
+      "VidaInimigo": 1
+    },
+    {
+      "Numero": 93,
+      "Jogador": "Soldado Padrao",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Movimento",
+      "VidaJogador": 2,
+      "VidaInimigo": 0
+    }
+  ]
+}

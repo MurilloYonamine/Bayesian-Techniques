@@ -1,0 +1,293 @@
+{
+  "Nome": "2026-05-10_22-13-06",
+  "Turnos": [
+    {
+      "Numero": 1,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Movimento",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Movimento",
+      "VidaJogador": 79,
+      "VidaInimigo": 60
+    },
+    {
+      "Numero": 2,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 79,
+      "VidaInimigo": 60
+    },
+    {
+      "Numero": 3,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 79,
+      "VidaInimigo": 60
+    },
+    {
+      "Numero": 4,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Movimento",
+      "VidaJogador": 79,
+      "VidaInimigo": 60
+    },
+    {
+      "Numero": 5,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 79,
+      "VidaInimigo": 60
+    },
+    {
+      "Numero": 6,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 79,
+      "VidaInimigo": 60
+    },
+    {
+      "Numero": 7,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 79,
+      "VidaInimigo": 60
+    },
+    {
+      "Numero": 8,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Movimento",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 71,
+      "VidaInimigo": 60
+    },
+    {
+      "Numero": 9,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 63,
+      "VidaInimigo": 49
+    },
+    {
+      "Numero": 10,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Movimento",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 63,
+      "VidaInimigo": 49
+    },
+    {
+      "Numero": 11,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 63,
+      "VidaInimigo": 49
+    },
+    {
+      "Numero": 12,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 63,
+      "VidaInimigo": 49
+    },
+    {
+      "Numero": 13,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 63,
+      "VidaInimigo": 49
+    },
+    {
+      "Numero": 14,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 55,
+      "VidaInimigo": 42
+    },
+    {
+      "Numero": 15,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 55,
+      "VidaInimigo": 42
+    },
+    {
+      "Numero": 16,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 55,
+      "VidaInimigo": 42
+    },
+    {
+      "Numero": 17,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 55,
+      "VidaInimigo": 42
+    },
+    {
+      "Numero": 18,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 55,
+      "VidaInimigo": 42
+    },
+    {
+      "Numero": 19,
+      "Jogador": "Hugo",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 55,
+      "VidaInimigo": 42
+    },
+    {
+      "Numero": 20,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Movimento",
+      "VidaJogador": 55,
+      "VidaInimigo": 42
+    },
+    {
+      "Numero": 21,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 43,
+      "VidaInimigo": 35
+    },
+    {
+      "Numero": 22,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Movimento",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Movimento",
+      "VidaJogador": 43,
+      "VidaInimigo": 35
+    },
+    {
+      "Numero": 23,
+      "Jogador": "Hugo",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 35,
+      "VidaInimigo": 34
+    },
+    {
+      "Numero": 24,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Movimento",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 27,
+      "VidaInimigo": 34
+    },
+    {
+      "Numero": 25,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 27,
+      "VidaInimigo": 34
+    },
+    {
+      "Numero": 26,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 19,
+      "VidaInimigo": 27
+    },
+    {
+      "Numero": 27,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 19,
+      "VidaInimigo": 27
+    },
+    {
+      "Numero": 28,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Movimento",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 19,
+      "VidaInimigo": 27
+    },
+    {
+      "Numero": 29,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Movimento",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 11,
+      "VidaInimigo": 27
+    },
+    {
+      "Numero": 30,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Movimento",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 3,
+      "VidaInimigo": 27
+    },
+    {
+      "Numero": 31,
+      "Jogador": "Hugo",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Movimento",
+      "VidaJogador": 3,
+      "VidaInimigo": 27
+    },
+    {
+      "Numero": 32,
+      "Jogador": "Hugo",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 0,
+      "VidaInimigo": 20
+    }
+  ]
+}

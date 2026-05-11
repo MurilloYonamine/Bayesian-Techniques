@@ -1,0 +1,113 @@
+{
+  "Nome": "2026-05-10_17-20-26",
+  "Turnos": [
+    {
+      "Numero": 1,
+      "Jogador": "Gabriel",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 96,
+      "VidaInimigo": 68
+    },
+    {
+      "Numero": 2,
+      "Jogador": "Gabriel",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 96,
+      "VidaInimigo": 68
+    },
+    {
+      "Numero": 3,
+      "Jogador": "Gabriel",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 96,
+      "VidaInimigo": 63
+    },
+    {
+      "Numero": 4,
+      "Jogador": "Gabriel",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 88,
+      "VidaInimigo": 53
+    },
+    {
+      "Numero": 5,
+      "Jogador": "Gabriel",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 88,
+      "VidaInimigo": 48
+    },
+    {
+      "Numero": 6,
+      "Jogador": "Gabriel",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 80,
+      "VidaInimigo": 38
+    },
+    {
+      "Numero": 7,
+      "Jogador": "Gabriel",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 76,
+      "VidaInimigo": 31
+    },
+    {
+      "Numero": 8,
+      "Jogador": "Gabriel",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Movimento",
+      "VidaJogador": 76,
+      "VidaInimigo": 21
+    },
+    {
+      "Numero": 9,
+      "Jogador": "Gabriel",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 64,
+      "VidaInimigo": 11
+    },
+    {
+      "Numero": 10,
+      "Jogador": "Gabriel",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 60,
+      "VidaInimigo": 11
+    },
+    {
+      "Numero": 11,
+      "Jogador": "Gabriel",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 52,
+      "VidaInimigo": 1
+    },
+    {
+      "Numero": 12,
+      "Jogador": "Gabriel",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 52,
+      "VidaInimigo": 0
+    }
+  ]
+}

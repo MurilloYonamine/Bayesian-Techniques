@@ -1,0 +1,31 @@
+{
+  "BatalhaId": "2026-05-10_19-38-14",
+  "Resultado": "Derrota",
+  "AcoesIA": {
+    "Ataque": 13,
+    "Defesa": 12,
+    "Esquiva": 2,
+    "ContraAtaque": 2,
+    "Movimento": 2
+  },
+  "AcoesJogador": {
+    "Ataque": 12,
+    "Defesa": 3,
+    "Esquiva": 7,
+    "ContraAtaque": 6,
+    "Movimento": 3
+  },
+  "Previsao": {
+    "Total": 31,
+    "Acertos": 10
+  },
+  "Dano": {
+    "CausadoIA": 82,
+    "RecebidoIA": 72,
+    "CausadoJogador": 72,
+    "RecebidoJogador": 82
+  },
+  "Metricas": {
+    "PrecisaoPrevisao": 0.3225806451612903
+  }
+}

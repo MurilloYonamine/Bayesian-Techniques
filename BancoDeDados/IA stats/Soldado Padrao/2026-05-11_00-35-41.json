@@ -1,0 +1,31 @@
+{
+  "BatalhaId": "2026-05-11_00-35-41",
+  "Resultado": "Vit\u00F3ria",
+  "AcoesIA": {
+    "Ataque": 12,
+    "Defesa": 17,
+    "Esquiva": 10,
+    "ContraAtaque": 15,
+    "Movimento": 5
+  },
+  "AcoesJogador": {
+    "Ataque": 15,
+    "Defesa": 11,
+    "Esquiva": 15,
+    "ContraAtaque": 9,
+    "Movimento": 9
+  },
+  "Previsao": {
+    "Total": 59,
+    "Acertos": 15
+  },
+  "Dano": {
+    "CausadoIA": 100,
+    "RecebidoIA": 74,
+    "CausadoJogador": 74,
+    "RecebidoJogador": 100
+  },
+  "Metricas": {
+    "PrecisaoPrevisao": 0.2542372881355932
+  }
+}

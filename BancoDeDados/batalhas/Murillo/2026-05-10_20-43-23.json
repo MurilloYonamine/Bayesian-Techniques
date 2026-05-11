@@ -1,0 +1,464 @@
+{
+  "Nome": "2026-05-10_20-43-23",
+  "Turnos": [
+    {
+      "Numero": 1,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 96,
+      "VidaInimigo": 72
+    },
+    {
+      "Numero": 2,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 96,
+      "VidaInimigo": 72
+    },
+    {
+      "Numero": 3,
+      "Jogador": "Murillo",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 96,
+      "VidaInimigo": 72
+    },
+    {
+      "Numero": 4,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 96,
+      "VidaInimigo": 72
+    },
+    {
+      "Numero": 5,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 92,
+      "VidaInimigo": 68
+    },
+    {
+      "Numero": 6,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 88,
+      "VidaInimigo": 64
+    },
+    {
+      "Numero": 7,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 88,
+      "VidaInimigo": 64
+    },
+    {
+      "Numero": 8,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Movimento",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 88,
+      "VidaInimigo": 64
+    },
+    {
+      "Numero": 9,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 88,
+      "VidaInimigo": 64
+    },
+    {
+      "Numero": 10,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 84,
+      "VidaInimigo": 60
+    },
+    {
+      "Numero": 11,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 79,
+      "VidaInimigo": 60
+    },
+    {
+      "Numero": 12,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 75,
+      "VidaInimigo": 56
+    },
+    {
+      "Numero": 13,
+      "Jogador": "Murillo",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 75,
+      "VidaInimigo": 56
+    },
+    {
+      "Numero": 14,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 75,
+      "VidaInimigo": 56
+    },
+    {
+      "Numero": 15,
+      "Jogador": "Murillo",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 71,
+      "VidaInimigo": 53
+    },
+    {
+      "Numero": 16,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 71,
+      "VidaInimigo": 53
+    },
+    {
+      "Numero": 17,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 63,
+      "VidaInimigo": 46
+    },
+    {
+      "Numero": 18,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 63,
+      "VidaInimigo": 44
+    },
+    {
+      "Numero": 19,
+      "Jogador": "Murillo",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 63,
+      "VidaInimigo": 44
+    },
+    {
+      "Numero": 20,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 63,
+      "VidaInimigo": 44
+    },
+    {
+      "Numero": 21,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 63,
+      "VidaInimigo": 42
+    },
+    {
+      "Numero": 22,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 63,
+      "VidaInimigo": 42
+    },
+    {
+      "Numero": 23,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 63,
+      "VidaInimigo": 42
+    },
+    {
+      "Numero": 24,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Movimento",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 63,
+      "VidaInimigo": 42
+    },
+    {
+      "Numero": 25,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 55,
+      "VidaInimigo": 42
+    },
+    {
+      "Numero": 26,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 55,
+      "VidaInimigo": 42
+    },
+    {
+      "Numero": 27,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 47,
+      "VidaInimigo": 42
+    },
+    {
+      "Numero": 28,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 47,
+      "VidaInimigo": 42
+    },
+    {
+      "Numero": 29,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 47,
+      "VidaInimigo": 42
+    },
+    {
+      "Numero": 30,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 47,
+      "VidaInimigo": 35
+    },
+    {
+      "Numero": 31,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 47,
+      "VidaInimigo": 35
+    },
+    {
+      "Numero": 32,
+      "Jogador": "Murillo",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 47,
+      "VidaInimigo": 35
+    },
+    {
+      "Numero": 33,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Movimento",
+      "VidaJogador": 47,
+      "VidaInimigo": 28
+    },
+    {
+      "Numero": 34,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Movimento",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 35,
+      "VidaInimigo": 28
+    },
+    {
+      "Numero": 35,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Movimento",
+      "VidaJogador": 35,
+      "VidaInimigo": 28
+    },
+    {
+      "Numero": 36,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 23,
+      "VidaInimigo": 21
+    },
+    {
+      "Numero": 37,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 23,
+      "VidaInimigo": 21
+    },
+    {
+      "Numero": 38,
+      "Jogador": "Murillo",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 23,
+      "VidaInimigo": 21
+    },
+    {
+      "Numero": 39,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 23,
+      "VidaInimigo": 21
+    },
+    {
+      "Numero": 40,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 23,
+      "VidaInimigo": 21
+    },
+    {
+      "Numero": 41,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 23,
+      "VidaInimigo": 21
+    },
+    {
+      "Numero": 42,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Movimento",
+      "VidaJogador": 23,
+      "VidaInimigo": 21
+    },
+    {
+      "Numero": 43,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 11,
+      "VidaInimigo": 14
+    },
+    {
+      "Numero": 44,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 11,
+      "VidaInimigo": 14
+    },
+    {
+      "Numero": 45,
+      "Jogador": "Murillo",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 11,
+      "VidaInimigo": 14
+    },
+    {
+      "Numero": 46,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 11,
+      "VidaInimigo": 14
+    },
+    {
+      "Numero": 47,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 11,
+      "VidaInimigo": 12
+    },
+    {
+      "Numero": 48,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 11,
+      "VidaInimigo": 10
+    },
+    {
+      "Numero": 49,
+      "Jogador": "Murillo",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 11,
+      "VidaInimigo": 10
+    },
+    {
+      "Numero": 50,
+      "Jogador": "Murillo",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Movimento",
+      "VidaJogador": 11,
+      "VidaInimigo": 10
+    },
+    {
+      "Numero": 51,
+      "Jogador": "Murillo",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 0,
+      "VidaInimigo": 3
+    }
+  ]
+}

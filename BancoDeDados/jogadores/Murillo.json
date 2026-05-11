@@ -1,0 +1,11 @@
+{
+  "Nome": "Murillo",
+  "VidaMaxima": 85,
+  "StatusAtaque": 4,
+  "StatusDefesa": 6,
+  "StatusEsquiva": 6,
+  "StatusContraAtaque": 10,
+  "StatusMovimentacao": 5,
+  "Carregando": false,
+  "EstaFlanqueando": false
+}
