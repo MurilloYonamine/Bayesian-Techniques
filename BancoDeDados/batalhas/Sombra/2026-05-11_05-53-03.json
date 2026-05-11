@@ -1,0 +1,347 @@
+{
+  "Nome": "2026-05-11_05-53-03",
+  "Turnos": [
+    {
+      "Numero": 1,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 145,
+      "VidaInimigo": 104
+    },
+    {
+      "Numero": 2,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Movimento",
+      "VidaJogador": 145,
+      "VidaInimigo": 104
+    },
+    {
+      "Numero": 3,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 137,
+      "VidaInimigo": 95
+    },
+    {
+      "Numero": 4,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 132,
+      "VidaInimigo": 90
+    },
+    {
+      "Numero": 5,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 132,
+      "VidaInimigo": 90
+    },
+    {
+      "Numero": 6,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 132,
+      "VidaInimigo": 90
+    },
+    {
+      "Numero": 7,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 132,
+      "VidaInimigo": 90
+    },
+    {
+      "Numero": 8,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 132,
+      "VidaInimigo": 90
+    },
+    {
+      "Numero": 9,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 127,
+      "VidaInimigo": 81
+    },
+    {
+      "Numero": 10,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 127,
+      "VidaInimigo": 81
+    },
+    {
+      "Numero": 11,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 122,
+      "VidaInimigo": 72
+    },
+    {
+      "Numero": 12,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 122,
+      "VidaInimigo": 72
+    },
+    {
+      "Numero": 13,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 117,
+      "VidaInimigo": 63
+    },
+    {
+      "Numero": 14,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 112,
+      "VidaInimigo": 58
+    },
+    {
+      "Numero": 15,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 107,
+      "VidaInimigo": 53
+    },
+    {
+      "Numero": 16,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 107,
+      "VidaInimigo": 53
+    },
+    {
+      "Numero": 17,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 107,
+      "VidaInimigo": 53
+    },
+    {
+      "Numero": 18,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 102,
+      "VidaInimigo": 44
+    },
+    {
+      "Numero": 19,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 97,
+      "VidaInimigo": 39
+    },
+    {
+      "Numero": 20,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "ContraAtaque",
+      "VidaJogador": 92,
+      "VidaInimigo": 34
+    },
+    {
+      "Numero": 21,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Movimento",
+      "VidaJogador": 92,
+      "VidaInimigo": 25
+    },
+    {
+      "Numero": 22,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 92,
+      "VidaInimigo": 25
+    },
+    {
+      "Numero": 23,
+      "Jogador": "Sombra",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 89,
+      "VidaInimigo": 23
+    },
+    {
+      "Numero": 24,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 89,
+      "VidaInimigo": 23
+    },
+    {
+      "Numero": 25,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 84,
+      "VidaInimigo": 23
+    },
+    {
+      "Numero": 26,
+      "Jogador": "Sombra",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 81,
+      "VidaInimigo": 21
+    },
+    {
+      "Numero": 27,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 81,
+      "VidaInimigo": 21
+    },
+    {
+      "Numero": 28,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 81,
+      "VidaInimigo": 21
+    },
+    {
+      "Numero": 29,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Esquiva",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 76,
+      "VidaInimigo": 21
+    },
+    {
+      "Numero": 30,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 76,
+      "VidaInimigo": 21
+    },
+    {
+      "Numero": 31,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 76,
+      "VidaInimigo": 21
+    },
+    {
+      "Numero": 32,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 76,
+      "VidaInimigo": 21
+    },
+    {
+      "Numero": 33,
+      "Jogador": "Sombra",
+      "AcaoJogador": "ContraAtaque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 73,
+      "VidaInimigo": 19
+    },
+    {
+      "Numero": 34,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 68,
+      "VidaInimigo": 10
+    },
+    {
+      "Numero": 35,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Defesa",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 68,
+      "VidaInimigo": 10
+    },
+    {
+      "Numero": 36,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Ataque",
+      "VidaJogador": 63,
+      "VidaInimigo": 1
+    },
+    {
+      "Numero": 37,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Esquiva",
+      "VidaJogador": 63,
+      "VidaInimigo": 1
+    },
+    {
+      "Numero": 38,
+      "Jogador": "Sombra",
+      "AcaoJogador": "Ataque",
+      "Inimigo": "Inimigo",
+      "AcaoInimigo": "Defesa",
+      "VidaJogador": 63,
+      "VidaInimigo": 0
+    }
+  ]
+}
