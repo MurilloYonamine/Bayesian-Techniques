@@ -72,7 +72,7 @@ namespace Bayesian_Techniques {
                     atacante.VidaAtual -= defensor.StatusContraAtaque;
                     Console.WriteLine($"{atacante.Nome} recebeu {defensor.StatusContraAtaque} de dano no contra-ataque!");
 
-                    dano -= atacante.StatusAtaque / 2;
+                    dano = 0;
                     break;
             }
 
