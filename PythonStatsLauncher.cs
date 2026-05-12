@@ -41,7 +41,7 @@ namespace Bayesian_Techniques {
 
             var startInfo = new ProcessStartInfo {
                 FileName = "py",
-                Arguments = $"-3 \"{script}\" \"{nomeJogador}\"",
+                Arguments = $"\"{script}\" \"{nomeJogador}\"",
                 WorkingDirectory = projetoRaiz,
                 UseShellExecute = false, 
                 CreateNoWindow = true  
@@ -51,7 +51,7 @@ namespace Bayesian_Techniques {
 		}
 
 		private static bool TemPythonInstalado() {
-			return ExecutarTesteComando("py", "-3 --version") || ExecutarTesteComando("python", "--version");
+			return ExecutarTesteComando("py", "--version") || ExecutarTesteComando("python", "--version");
 		}
 
 		private static bool ExecutarTesteComando(string arquivo, string argumentos) {

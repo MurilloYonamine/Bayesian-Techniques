@@ -12,7 +12,6 @@ namespace Bayesian_Techniques {
             )
         );
 
-        // Centralized paths for data directories
         public static string BANCO_DE_DADOS = Path.Combine(RaizProjeto, "BancoDeDados");
         public static string IA_STATS = Path.Combine(BANCO_DE_DADOS, "IA stats");
         public static string BATALHAS = Path.Combine(BANCO_DE_DADOS, "batalhas");

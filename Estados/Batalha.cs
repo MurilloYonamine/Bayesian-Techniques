@@ -97,9 +97,6 @@
             }
 
         }
-        // =========================
-        // LOOP AUTOMÁTICO
-        // =========================
         private async Task LoopAutomatizado(Jogador jogador, GerenciadorEstados manager, int repeticoes) {
             int execucao = 0;
 
@@ -147,9 +144,6 @@
             await MenuFinal(jogador, manager);
         }
 
-        // =========================
-        // LOOP NORMAL
-        // =========================
         private async Task LoopNormal(Jogador jogador, Inimigo inimigo) {
             int turno = 1;
             Acao ultima = Acao.None;
@@ -171,9 +165,6 @@
             }
         }
 
-        // =========================
-        // AUTO RESTART
-        // =========================
         private async Task ReiniciarAutomatico(Jogador jogador, GerenciadorEstados manager) {
             Console.Clear();
             Console.WriteLine("Nova batalha automática...");
@@ -183,9 +174,6 @@
             await new Batalha().Executar(jogador, manager, ModoBatalha.Automatico);
         }
 
-        // =========================
-        // RESTO (igual seu sistema)
-        // =========================
         private Inimigo CriarInimigo(Jogador jogador) {
             int vida = jogador.VidaMaxima - jogador.VidaMaxima / 4;
             return new Inimigo(jogador) {
